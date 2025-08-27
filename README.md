@@ -118,9 +118,4 @@ Após esses passos, basta utilizar o comando:
     composer run dev
 Pressionar **Ctrl** e selecionar o link para abrir o projeto no navegador, http://localhost:8000.
 
-## **Dica**
-
-Para acessar a galeria de comandos do terminal, utilize:
-
-Eu real não lembro o comando, pesquisei e não achei, mas queria coloca pq é interessante 😔
 
